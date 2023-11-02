@@ -29,7 +29,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "2e533756129998b2259244bd9ecd3a85
 "assets/assets/petrol_icom.png": "06d6e9ab7bda7e7cab48ba775d64d8e8",
 "assets/assets/sit_icon.png": "96393e3a2bac81ca603f51774e65933e",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "11a74f2b06cb527b1fc2797355c99fc7",
+"assets/fonts/MaterialIcons-Regular.otf": "da4f2caabab937ad2bb01d1a1f704d9e",
 "assets/NOTICES": "9adb97cfd3b6bcb2f2a23faa83dc2243",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/packages/flutter_google_places_sdk_platform_interface/assets/google/0.75x/powered_by_google_on_non_white.png": "78b06d238cb55fd775d0faefc44448f7",
@@ -58,9 +58,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "2e533756129998b2259244bd9ecd3a85
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "e3f92a0e73e5282442df134c77b03304",
-"/": "e3f92a0e73e5282442df134c77b03304",
-"main.dart.js": "8e2235449f043be7125fe811a747b6bc",
+"index.html": "474c04da581d72dd610a222e63ec1293",
+"/": "474c04da581d72dd610a222e63ec1293",
+"main.dart.js": "c9bacdd13a2bfd3c1393b09f7856d958",
 "manifest.json": "cd414d6a8695571cfb057a5ab99c7cd8",
 "version.json": "d52143a86e96361c5dcf170d12ffcd43"};
 // The application shell files that are downloaded before a service worker can
